@@ -5,7 +5,7 @@ package contorller;
  */
 public class Person {
     public static void main(String[] args) {
-        System.out.println("abdolrazagh"); //
+        System.out.println("abdolrazagh"); //fdfdf
 
     }
 }
